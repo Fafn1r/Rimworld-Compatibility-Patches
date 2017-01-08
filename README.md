@@ -1,3 +1,3 @@
-# Rimworld Mods
+# Rimworld Compatiblility Patches
 
-My mods and modpacks for amazing game Rimworld
+Standalone patches for Rimworld mods, made while I'm working on Fafnir Mod Pack.
